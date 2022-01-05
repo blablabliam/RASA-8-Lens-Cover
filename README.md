@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/blablabliam/RASA-8-Lens-Cover">
-    <img src="images/export.jpg" alt="The lens cover, with a simple watermark." width="80" height="80">
+    <img src="images/export.png" alt="The lens cover, with a simple watermark." width="80" height="80">
   </a>
 
   <h3 align="center">3D Printable RASA 8 Lens Cover</h3>
