@@ -35,14 +35,11 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#design">Design</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -78,7 +75,7 @@ Project Link: [https://github.com/blablabliam/RASA-8-Lens-Cover](https://github.
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Acknowledgments
 
 * [Celestron](https://www.celestron.com/)
 
